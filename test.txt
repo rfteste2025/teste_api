@@ -1,0 +1,6 @@
+Este é um arquivo de dados genérico para teste de indexação.
+
+Palavras chave: api_teste_123, user_example, senha_teste.
+Este conteúdo é puramente fictício e usado apenas para fins de aprendizado.
+
+Data gerada automaticamente.
