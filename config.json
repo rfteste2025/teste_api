@@ -1,0 +1,12 @@
+{
+    "api_url": "https://api.teste.com.br/v1",
+    "timeout": 30,
+    "features": {
+        "enable_logs": true,
+        "use_cache": false
+    },
+    "credentials": {
+        "username": "user_test",
+        "password": "pass_test_123"
+    }
+}
