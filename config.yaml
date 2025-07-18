@@ -1,0 +1,10 @@
+version: "1.0"
+settings:
+  retries: 5
+  log_level: debug
+  notify: true
+
+services:
+  - name: api-service
+    url: https://api.teste.com.br
+    enabled: true
